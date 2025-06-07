@@ -12,4 +12,4 @@ This script runs two essential system maintenance commands on Windows:
 Paste this into an **elevated PowerShell window**:
 
 ```powershell
-iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/AlMoselly/Powershells/main/Repair-Windows.ps1'))
+iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/AlMoselly/Powershells/blob/main/Repair-Windows.ps1'))
